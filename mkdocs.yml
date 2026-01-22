@@ -1,1 +1,6 @@
-site_name: Here site1
+site_name: "My site"
+theme:
+  name: null
+  custom_dir: 'custom_theme/'
+extra_css:
+  - style.css
